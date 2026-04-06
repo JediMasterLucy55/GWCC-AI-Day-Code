@@ -4,13 +4,13 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 
 # loads the JSON file
-with open('books.json', 'r') as f:
+with open('data.json', 'r') as f:
     data = json.load(f)
 
-# makes a list of all the synopses in the dataset
-X = [book["synopsis"] for book in data]
-# makes a list of all the genres in the dataset
-y = [book["genre"] for book in data]
+# makes a list of all the info in the dataset
+X = [info[""] for info in data]
+# makes a list of all the results in the dataset
+y = [info[""] for info in data]
 
 # splits the data into two types: training and testing
 # training allows the program to learn about the dataset, and testing quizzes it
@@ -34,21 +34,21 @@ model = LogisticRegression(max_iter = 1000)
 # trains the AI
 model.fit(X_train_tfidf, y_train)  
 
-# predicts the genre
+# predicts the result
 prediction = model.predict(X_test_tfidf)
 
 # interactivity
 while True:
-    # gets the synopsis
-    user_input = input("\nType a book description (or 'quit' to stop): ")
+    # gets the user input
+    user_input = input("\nType __________ (or 'quit' to stop): ")
     if user_input.lower() == "quit":
         break
     # turns the user_input into a number
     user_tfidf = vectorizer.transform([user_input])
-    # predicts the genre using TFIDF
+    # predicts the result using TFIDF
     prediction = model.predict(user_tfidf)
     # prints the result
-    print("Predicted genre:", prediction[0])
+    print(" ", prediction[0])
 
 # to install python, in the terminal type "winget install Python.Python.3" OR winget "install 9NQ7512CXL7T -e --accept-package-agreements" to download from the microsoft store
 # to install the scikit learn library type "pip install scikit-learn"
