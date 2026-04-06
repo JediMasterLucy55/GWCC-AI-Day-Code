@@ -1,5 +1,4 @@
-{
-  "books": [
+[
     {
       "genre": "Fantasy",
       "title": "The Name of the Wind",
@@ -451,4 +450,3 @@
       "synopsis": "A Spanish woman asks her tall, brooding American colleague to be her fake boyfriend at her sister's wedding in Spain, setting off a transatlantic road trip full of tension, misunderstandings, and unexpected feelings."
     }
   ]
-}
