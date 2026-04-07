@@ -51,4 +51,4 @@ while True:
     print("Predicted genre:", prediction[0])
 
 # to install python, in the terminal type "winget install Python.Python.3" OR "winget install 9NQ7512CXL7T -e --accept-package-agreements" to download from the microsoft store
-# to install the scikit learn library type "py install scikit-learn"
+# to install the scikit learn library type "python -m pip install scikit-learn"
