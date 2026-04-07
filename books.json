@@ -1,526 +1,890 @@
 [
-    {
-      "genre": "Fantasy",
-      "title": "The Name of the Wind",
-      "author": "Patrick Rothfuss",
-      "synopsis": "The story of Kvothe, a legendary wizard and musician, as he recounts his life from a young orphan to one of the most notorious figures in history, told in his own words at a remote inn."
-    },
-    {
-      "genre": "Fantasy",
-      "title": "The Way of Kings",
-      "author": "Brandon Sanderson",
-      "synopsis": "On the war-torn world of Roshar, a young soldier, a powerful surgeon-turned-warrior, and a brilliant scholar find their fates intertwined as ancient forces stir and a storm of apocalyptic proportions looms."
-    },
-    {
-      "genre": "Fantasy",
-      "title": "A Game of Thrones",
-      "author": "George R.R. Martin",
-      "synopsis": "Noble families fight for control of the Iron Throne while an ancient enemy awakens beyond the Wall and a exiled princess seeks to reclaim her birthright across the sea."
-    },
-    {
-      "genre": "Fantasy",
-      "title": "The Hobbit",
-      "author": "J.R.R. Tolkien",
-      "synopsis": "Bilbo Baggins, a comfort-loving hobbit, is swept into an epic quest with a band of dwarves and the wizard Gandalf to reclaim the dwarven homeland from the fearsome dragon Smaug."
-    },
-    {
-      "genre": "Fantasy",
-      "title": "Mistborn: The Final Empire",
-      "author": "Brandon Sanderson",
-      "synopsis": "In a world where ash falls from the sky and mists dominate the night, a young street thief with rare magical abilities joins a crew of rebels plotting to overthrow the immortal Lord Ruler."
-    },
-    {
-      "genre": "Fantasy",
-      "title": "The Lies of Locke Lamora",
-      "author": "Scott Lynch",
-      "synopsis": "A brilliant con artist and his gang of thieves operate in a fantastical city reminiscent of Renaissance Venice, until a mysterious figure known as the Grey King threatens to unravel everything they have built."
-    },
-    {
-      "genre": "Fantasy",
-      "title": "Jonathan Strange & Mr Norrell",
-      "author": "Susanna Clarke",
-      "synopsis": "In an alternate 19th-century England, two very different magicians—one reclusive and theoretical, one dashing and practical—revive English magic, only to find themselves at odds with each other and the faerie world."
-    },
-    {
-      "genre": "Fantasy",
-      "title": "The Blade Itself",
-      "author": "Joe Abercrombie",
-      "synopsis": "A barbarian war hero, a crippled torturer, and a young nobleman are drawn together by the schemes of a mysterious mage as an ancient evil threatens a world already rife with corruption and violence."
-    },
-    {
-      "genre": "Fantasy",
-      "title": "Circe",
-      "author": "Madeline Miller",
-      "synopsis": "The daughter of the sun god Helios discovers her power as a witch, encountering famous figures of Greek mythology—including Daedalus, Medea, and Odysseus—before ultimately facing a choice between the worlds of gods and mortals."
-    },
-    {
-      "genre": "Fantasy",
-      "title": "The Night Circus",
-      "author": "Erin Morgenstern",
-      "synopsis": "Two young magicians, bound by a mysterious competition they did not choose, fall in love within a magical black-and-white circus that appears without warning and exists only at night."
-    },
-    {
-      "genre": "Fantasy",
-      "title": "American Gods",
-      "author": "Neil Gaiman",
-      "synopsis": "A recently released convict named Shadow is hired as a bodyguard by the mysterious Mr. Wednesday, and finds himself drawn into a brewing war between the old gods brought to America by immigrants and the new gods of technology and media."
-    },
-    {
-      "genre": "Fantasy",
-      "title": "The Priory of the Orange Tree",
-      "author": "Samantha Shannon",
-      "synopsis": "A world divided by ancient enmities between dragonriders and dragon-worshippers faces an existential threat as a great enemy stirs, and four characters across continents must overcome prejudice to save their world."
-    },
-    {
-      "genre": "Fantasy",
-      "title": "Assassin's Apprentice",
-      "author": "Robin Hobb",
-      "synopsis": "FitzChivalry Farseer, the illegitimate son of a prince, is raised in the royal stables and secretly trained as an assassin for the king, all while struggling to master a dangerous magical gift."
-    },
-    {
-      "genre": "Fantasy",
-      "title": "The Poppy War",
-      "author": "R.F. Kuang",
-      "synopsis": "A war orphan aces a national exam to gain entrance to the country's most elite military school, where she discovers she has a rare and devastating shamanic power rooted in the darkest parts of history."
-    },
-    {
-      "genre": "Fantasy",
-      "title": "A Wizard of Earthsea",
-      "author": "Ursula K. Le Guin",
-      "synopsis": "A young boy with innate magical talent trains at a school for wizards on an archipelago world, but his pride unleashes a terrible shadow creature that he must hunt across the seas to defeat."
-    },
-    {
-      "genre": "Science Fiction",
-      "title": "Dune",
-      "author": "Frank Herbert",
-      "synopsis": "On the desert planet Arrakis, the only source of the universe's most valuable substance, young Paul Atreides navigates political treachery, religious prophecy, and ecological disaster to fulfill a destiny that will change the galaxy."
-    },
-    {
-      "genre": "Science Fiction",
-      "title": "The Three-Body Problem",
-      "author": "Liu Cixin",
-      "synopsis": "During China's Cultural Revolution, a secret military project makes contact with an alien civilization on the verge of collapse, setting in motion an invasion that will reshape humanity's future over centuries."
-    },
-    {
-      "genre": "Science Fiction",
-      "title": "Ender's Game",
-      "author": "Orson Scott Card",
-      "synopsis": "A child military genius is recruited into an elite training school in space to prepare for an alien invasion, but the games he plays may be far more real than anyone has told him."
-    },
-    {
-      "genre": "Science Fiction",
-      "title": "The Left Hand of Darkness",
-      "author": "Ursula K. Le Guin",
-      "synopsis": "A lone human envoy travels to a frozen alien world whose inhabitants have no fixed gender, and must navigate their complex politics while forging an unlikely friendship to complete his diplomatic mission."
-    },
-    {
-      "genre": "Science Fiction",
-      "title": "Hyperion",
-      "author": "Dan Simmons",
-      "synopsis": "Seven pilgrims journey to the distant world of Hyperion, each sharing their life story, as the universe teeters on the brink of war and the mysterious creature known as the Shrike awaits them."
-    },
-    {
-      "genre": "Science Fiction",
-      "title": "Neuromancer",
-      "author": "William Gibson",
-      "synopsis": "A washed-up computer hacker is hired by a mysterious employer for one last job: to pull off the ultimate hack in cyberspace, with a deadly assassin as his partner and the fate of an AI at stake."
-    },
-    {
-      "genre": "Science Fiction",
-      "title": "The Martian",
-      "author": "Andy Weir",
-      "synopsis": "An astronaut is accidentally left behind on Mars and must use his ingenuity and humor to survive on a hostile planet with limited supplies while NASA scrambles to mount a rescue mission."
-    },
-    {
-      "genre": "Science Fiction",
-      "title": "Ancillary Justice",
-      "author": "Ann Leckie",
-      "synopsis": "A former starship AI, now trapped in a single human body, seeks revenge against the ruler of the galaxy who destroyed her ship, uncovering a conspiracy that threatens the empire itself."
-    },
-    {
-      "genre": "Science Fiction",
-      "title": "A Fire Upon the Deep",
-      "author": "Vernor Vinge",
-      "synopsis": "A human expedition accidentally unleashes an ancient evil at the edge of the galaxy, and only two children marooned on a medieval alien world may hold the key to stopping it before it destroys all civilization."
-    },
-    {
-      "genre": "Science Fiction",
-      "title": "Station Eleven",
-      "author": "Emily St. John Mandel",
-      "synopsis": "Twenty years after a devastating flu pandemic destroys civilization, a traveling theater company performs Shakespeare in the remnants of the Great Lakes region, while the past and present intertwine in unexpected ways."
-    },
-    {
-      "genre": "Science Fiction",
-      "title": "The Dispossessed",
-      "author": "Ursula K. Le Guin",
-      "synopsis": "A brilliant physicist from an anarchist moon travels to the capitalist twin planet his people abandoned generations ago, hoping to share a discovery that could transform both societies—and finding neither is what it seems."
-    },
-    {
-      "genre": "Science Fiction",
-      "title": "Blindsight",
-      "author": "Peter Watts",
-      "synopsis": "A crew of specialists is sent to investigate an alien spacecraft at the edge of the solar system, and the encounter challenges every assumption about consciousness, intelligence, and what it means to be human."
-    },
-    {
-      "genre": "Science Fiction",
-      "title": "Flowers for Algernon",
-      "author": "Daniel Keyes",
-      "synopsis": "An intellectually disabled man undergoes an experimental procedure that dramatically increases his intelligence, allowing him to see the world in new ways—but the experiment comes with devastating and unforeseen consequences."
-    },
-    {
-      "genre": "Science Fiction",
-      "title": "The Long Way to a Small, Angry Planet",
-      "author": "Becky Chambers",
-      "synopsis": "The eclectic crew of a tunneling ship that creates wormholes through space takes on a dangerous long-haul job, forming deep bonds and confronting life-changing discoveries along the way."
-    },
-    {
-      "genre": "Science Fiction",
-      "title": "Project Hail Mary",
-      "author": "Andy Weir",
-      "synopsis": "A lone astronaut wakes up with no memory millions of miles from Earth and must piece together his mission: to save the solar system from an existential threat, aided only by an unlikely alien ally."
-    },
-    {
-      "genre": "Mystery/Thriller",
-      "title": "Gone Girl",
-      "author": "Gillian Flynn",
-      "synopsis": "On the morning of their fifth wedding anniversary, Amy Dunne disappears, and her husband Nick becomes the prime suspect—but both husband and wife are harboring secrets that make nothing in this story what it seems."
-    },
-    {
-      "genre": "Mystery/Thriller",
-      "title": "The Girl with the Dragon Tattoo",
-      "author": "Stieg Larsson",
-      "synopsis": "A disgraced journalist and a brilliant but troubled hacker investigate a decades-old disappearance within a powerful Swedish family, uncovering a dark history of violence, corruption, and abuse."
-    },
-    {
-      "genre": "Mystery/Thriller",
-      "title": "Big Little Lies",
-      "author": "Liane Moriarty",
-      "synopsis": "Three women in an affluent coastal town find their seemingly perfect lives converging on a fatal evening at a school fundraiser, and the secrets each has kept hidden begin to unravel with deadly results."
-    },
-    {
-      "genre": "Mystery/Thriller",
-      "title": "In the Woods",
-      "author": "Tana French",
-      "synopsis": "A Dublin detective investigating the murder of a young girl on an archaeological dig is haunted by his own mysterious past—he is the sole survivor of a childhood incident in those same woods that he cannot remember."
-    },
-    {
-      "genre": "Mystery/Thriller",
-      "title": "The Silent Patient",
-      "author": "Alex Michaelides",
-      "synopsis": "A famous painter shoots her husband five times and then never speaks another word. A criminal psychotherapist becomes obsessed with uncovering her motive, but the truth he uncovers is more disturbing than he imagined."
-    },
-    {
-      "genre": "Mystery/Thriller",
-      "title": "And Then There Were None",
-      "author": "Agatha Christie",
-      "synopsis": "Ten strangers are lured to an isolated island, and one by one they are killed according to an old nursery rhyme, with no apparent culprit among them and no way to escape."
-    },
-    {
-      "genre": "Mystery/Thriller",
-      "title": "The Da Vinci Code",
-      "author": "Dan Brown",
-      "synopsis": "A Harvard symbologist and a French cryptologist become entangled in a deadly race through Europe, following clues hidden in the works of Leonardo da Vinci to uncover a secret that could shake the foundations of Christianity."
-    },
-    {
-      "genre": "Mystery/Thriller",
-      "title": "Sharp Objects",
-      "author": "Gillian Flynn",
-      "synopsis": "A journalist returns to her small Missouri hometown to report on the murders of two preteen girls and finds herself ensnared in her own troubled past and the suffocating dysfunction of her family."
-    },
-    {
-      "genre": "Mystery/Thriller",
-      "title": "The Secret History",
-      "author": "Donna Tartt",
-      "synopsis": "A group of elite classics students at a Vermont college commit a murder together, and the narrator—one of them—looks back on the events that led to the act and its devastating aftermath."
-    },
-    {
-      "genre": "Mystery/Thriller",
-      "title": "Dark Places",
-      "author": "Gillian Flynn",
-      "synopsis": "The sole survivor of a massacre that killed her family as a child has spent her life profiting from the tragedy, but when a true-crime group convinces her to reopen the case, she uncovers evidence that her brother may be innocent."
-    },
-    {
-      "genre": "Mystery/Thriller",
-      "title": "The Thursday Murder Club",
-      "author": "Richard Osman",
-      "synopsis": "Four retirees at a peaceful English village community meet weekly to solve cold cases—until a real murder lands on their doorstep and they find themselves in the middle of a very live investigation."
-    },
-    {
-      "genre": "Mystery/Thriller",
-      "title": "Verity",
-      "author": "Colleen Hoover",
-      "synopsis": "A struggling author is invited to complete the remaining books in a successful thriller series for the incapacitated author, but when she discovers a disturbing manuscript in the house, she must decide whether it is a confession or fiction."
-    },
-    {
-      "genre": "Mystery/Thriller",
-      "title": "The Woman in the Window",
-      "author": "A.J. Finn",
-      "synopsis": "An agoraphobic child psychologist spends her days watching her neighbors through her window until she witnesses something she was never meant to see—but no one believes her account of events."
-    },
-    {
-      "genre": "Mystery/Thriller",
-      "title": "Rebecca",
-      "author": "Daphne du Maurier",
-      "synopsis": "A young woman marries a wealthy widower and moves into his grand English estate, but she finds herself overshadowed by the memory of his first wife, Rebecca, whose presence seems to permeate every corner of the house."
-    },
-    {
-      "genre": "Mystery/Thriller",
-      "title": "The No. 1 Ladies' Detective Agency",
-      "author": "Alexander McCall Smith",
-      "synopsis": "Precious Ramotswe uses her late father's cattle to set up the first and only detective agency run by a woman in Botswana, solving cases with warmth, wisdom, and a deep understanding of human nature."
-    },
-    {
-      "genre": "Literary Fiction",
-      "title": "To Kill a Mockingbird",
-      "author": "Harper Lee",
-      "synopsis": "In 1930s Alabama, young Scout Finch watches as her father, a lawyer, defends a Black man unjustly accused of a crime, learning hard lessons about justice, morality, and the complexity of human character."
-    },
-    {
-      "genre": "Literary Fiction",
-      "title": "One Hundred Years of Solitude",
-      "author": "Gabriel García Márquez",
-      "synopsis": "The Buendía family founds and inhabits the fictional town of Macondo over seven generations, experiencing love, war, madness, and miracles in a sweeping saga blending reality with myth."
-    },
-    {
-      "genre": "Literary Fiction",
-      "title": "Beloved",
-      "author": "Toni Morrison",
-      "synopsis": "A formerly enslaved woman living in post-Civil War Ohio is haunted—literally—by the ghost of her dead daughter, as the trauma of slavery resurfaces and threatens to consume her present life."
-    },
-    {
-      "genre": "Literary Fiction",
-      "title": "The Road",
-      "author": "Cormac McCarthy",
-      "synopsis": "A father and son travel through the desolate wasteland of a post-apocalyptic America, carrying nothing but a pistol, a cart of supplies, and their love for each other as they struggle to survive."
-    },
-    {
-      "genre": "Literary Fiction",
-      "title": "Normal People",
-      "author": "Sally Rooney",
-      "synopsis": "Two young Irish people from the same small town navigate an on-and-off relationship from secondary school to university, circling each other with longing and misunderstanding as they each struggle to find their place in the world."
-    },
-    {
-      "genre": "Literary Fiction",
-      "title": "The Kite Runner",
-      "author": "Khaled Hosseini",
-      "synopsis": "A wealthy Afghan boy's betrayal of his devoted servant and friend haunts him for decades, driving him from Kabul to America and finally back to Taliban-ruled Afghanistan to seek redemption."
-    },
-    {
-      "genre": "Literary Fiction",
-      "title": "The God of Small Things",
-      "author": "Arundhati Roy",
-      "synopsis": "In Kerala, India, the lives of fraternal twins are shaped by a forbidden love affair and a terrible tragedy, whose ripple effects across generations are narrated in a richly layered, nonlinear story."
-    },
-    {
-      "genre": "Literary Fiction",
-      "title": "Never Let Me Go",
-      "author": "Kazuo Ishiguro",
-      "synopsis": "Three friends grow up together at an idyllic English boarding school, but as they age they begin to grasp the disturbing truth about their identity and the fate that has been predetermined for them."
-    },
-    {
-      "genre": "Literary Fiction",
-      "title": "Americanah",
-      "author": "Chimamanda Ngozi Adichie",
-      "synopsis": "Two young Nigerians fall in love before emigrating separately—she to America, he to England—and after years apart and hard-won self-discovery, must reckon with who they have become when they find each other again."
-    },
-    {
-      "genre": "Literary Fiction",
-      "title": "The Brief Wondrous Life of Oscar Wao",
-      "author": "Junot Díaz",
-      "synopsis": "An overweight Dominican-American boy obsessed with fantasy novels and cursed with terrible luck pursues love and identity in New Jersey and the Dominican Republic, haunted by his family's tragic history under a dictatorship."
-    },
-    {
-      "genre": "Literary Fiction",
-      "title": "A Little Life",
-      "author": "Hanya Yanagihara",
-      "synopsis": "Four friends from college navigate their adult lives in New York City over decades, but the novel centers on one of them—Jude—whose childhood trauma quietly reveals itself in devastating detail."
-    },
-    {
-      "genre": "Literary Fiction",
-      "title": "Pachinko",
-      "author": "Min Jin Lee",
-      "synopsis": "A Korean family faces discrimination, sacrifice, and resilience across four generations—from Japanese colonial rule through the late 20th century—in an epic saga about identity, fate, and the meaning of home."
-    },
-    {
-      "genre": "Literary Fiction",
-      "title": "The Remains of the Day",
-      "author": "Kazuo Ishiguro",
-      "synopsis": "An aging English butler takes a rare road trip through the countryside and reflects on a lifetime of service, slowly confronting the professional and personal choices that cost him the chance to truly live."
-    },
-    {
-      "genre": "Literary Fiction",
-      "title": "Gilead",
-      "author": "Marilynne Robinson",
-      "synopsis": "An elderly Congregationalist minister in Iowa writes a long letter to his young son, reflecting on his life, his faith, his friendship with a fellow pastor, and the complicated return of that pastor's prodigal son."
-    },
-    {
-      "genre": "Literary Fiction",
-      "title": "The Goldfinch",
-      "author": "Donna Tartt",
-      "synopsis": "A boy survives a terrorist bombing at a New York museum that kills his mother, and escapes with a small, priceless Dutch painting that becomes the unlikely anchor of his chaotic journey through grief, crime, and identity."
-    },
-    {
-      "genre": "Romance",
-      "title": "Pride and Prejudice",
-      "author": "Jane Austen",
-      "synopsis": "The witty Elizabeth Bennet navigates social expectations, family pressures, and her own prejudices as she and the proud, wealthy Mr. Darcy move from mutual disdain to deep and lasting love."
-    },
-    {
-      "genre": "Romance",
-      "title": "Outlander",
-      "author": "Diana Gabaldon",
-      "synopsis": "A British nurse in 1945 is mysteriously transported back to 18th-century Scotland, where she is forced to marry a young Scottish warrior named Jamie Fraser and must choose between her own time and her new life."
-    },
-    {
-      "genre": "Romance",
-      "title": "The Notebook",
-      "author": "Nicholas Sparks",
-      "synopsis": "An elderly man in a nursing home reads to a woman with dementia from a notebook containing the story of two young lovers in 1940s North Carolina whose summer romance was torn apart by social class and war."
-    },
-    {
-      "genre": "Romance",
-      "title": "It Ends with Us",
-      "author": "Colleen Hoover",
-      "synopsis": "A young woman who moves to Boston to pursue her dreams falls into a complicated relationship with a neurosurgeon, and must find the courage to navigate love, pain, and the cycle of abuse her mother couldn't break."
-    },
-    {
-      "genre": "Romance",
-      "title": "The Hating Game",
-      "author": "Sally Thorne",
-      "synopsis": "Two executive assistants who share an office and despise each other find themselves competing for the same promotion—and gradually realizing that their intense rivalry might mask something else entirely."
-    },
-    {
-      "genre": "Romance",
-      "title": "Beach Read",
-      "author": "Emily Henry",
-      "synopsis": "A romance novelist who no longer believes in love and a literary fiction writer who believes love never lasts are summer neighbors who make a bet to write outside their respective genres—and fall for each other in the process."
-    },
-    {
-      "genre": "Romance",
-      "title": "The Kiss Quotient",
-      "author": "Helen Hoang",
-      "synopsis": "An econometrician with Asperger's syndrome hires a male escort to help her gain dating experience, but when their fake arrangement starts to feel very real, both must overcome deep personal fears to find love."
-    },
-    {
-      "genre": "Romance",
-      "title": "Me Before You",
-      "author": "Jojo Moyes",
-      "synopsis": "A young woman becomes caregiver to a brilliant, acerbic man left quadriplegic after an accident, and over the months they spend together she tries to show him that life is still worth living while falling in love with him."
-    },
-    {
-      "genre": "Romance",
-      "title": "People We Meet on Vacation",
-      "author": "Emily Henry",
-      "synopsis": "Two best friends with opposite personalities have spent every summer traveling together, but two years ago something went wrong and they stopped speaking. Now they're giving their friendship—and maybe more—one last chance."
-    },
-    {
-      "genre": "Romance",
-      "title": "The Duke and I",
-      "author": "Julia Quinn",
-      "synopsis": "In Regency England, a young debutante and a handsome duke agree to a fake courtship to ward off their respective unwanted romantic pressures, only to discover their pretend engagement is becoming something genuine."
-    },
-    {
-      "genre": "Romance",
-      "title": "In a Holidaze",
-      "author": "Christina Lauren",
-      "synopsis": "After a disastrous holiday vacation involving an ill-advised kiss with the wrong man, a young woman finds herself mysteriously reliving the same holiday trip again and again until she figures out what her heart truly wants."
-    },
-    {
-      "genre": "Romance",
-      "title": "The Love Hypothesis",
-      "author": "Ali Hazelwood",
-      "synopsis": "A third-year biology PhD student needs a fake boyfriend to convince her best friend she has moved on, and impulsively enlists a notoriously intimidating professor—only to find the hypothesis of fake dating becoming a real experiment in love."
-    },
-    {
-      "genre": "Romance",
-      "title": "Rebecca",
-      "author": "Daphne du Maurier",
-      "synopsis": "A naïve young woman falls for the brooding widower Maxim de Winter and becomes the mistress of his grand estate Manderley, but the shadow of his first wife Rebecca and the sinister housekeeper Mrs. Danvers threaten to destroy them both."
-    },
-    {
-      "genre": "Romance",
-      "title": "Persuasion",
-      "author": "Jane Austen",
-      "synopsis": "Anne Elliot, once persuaded to break off her engagement to the ambitious Frederick Wentworth, encounters him again years later after his naval career has made him a fortune, forcing both to reckon with regret, pride, and enduring love."
-    },
-    {
-      "genre": "Romance",
-      "title": "The Spanish Love Deception",
-      "author": "Elena Armas",
-      "synopsis": "A Spanish woman asks her tall, brooding American colleague to be her fake boyfriend at her sister's wedding in Spain, setting off a transatlantic road trip full of tension, misunderstandings, and unexpected feelings."
-    },
-  {"title": "The Ember Throne", "author": "Lyra Ashwood", "synopsis": "A orphaned blacksmith's apprentice discovers she can forge weapons imbued with ancient fire magic. When the kingdom's ember throne is stolen by a shadow cult, she must journey across enchanted lands, unite rival mages, and confront a dragon-god to restore balance to the realm.", "genre": "Fantasy"},
-  {"title": "Shards of the Old Kingdom", "author": "Cedric Thorne", "synopsis": "Four heirs to a shattered magical empire must each retrieve a fragment of a broken crown before the winter solstice. Their quests intertwine as ancient prophecies, treacherous courts, and a resurrected sorcerer threaten to consume everything they love.", "genre": "Fantasy"},
-  {"title": "The Faeborn Prince", "author": "Isolde Vane", "synopsis": "A half-fae prince banished from both human and fae realms seeks to reclaim his birthright. Guided by a mortal cartographer and hunted by wild hunt riders, he must navigate the labyrinthine politics of the in-between world.", "genre": "Fantasy"},
-  {"title": "Moonwood", "author": "Selene Farrow", "synopsis": "Deep in a forest where moonlight has physical form, a young healer apprentices under a witch who may have cursed her village decades ago. Unraveling the truth means confronting forest spirits, forbidden spells, and secrets buried in the roots of ancient trees.", "genre": "Fantasy"},
-  {"title": "The Glass Citadel", "author": "Emrys Drake", "synopsis": "A siege mage is sent to destroy an impregnable glass fortress but discovers its inhabitants are prisoners of a god, not enemies. Torn between duty and compassion, she must break a centuries-old divine compact without triggering a celestial war.", "genre": "Fantasy"},
-  {"title": "Beneath the Iron Sky", "author": "Theron Blackwell", "synopsis": "In a world where the sky itself is a magical barrier, a young thief steals a map leading to the realm above. Together with a disgraced knight and a rebellious scholar, she fights sky pirates and iron-winged beasts to reach the heavens.", "genre": "Fantasy"},
-  {"title": "The Last Runecaster", "author": "Mira Holloway", "synopsis": "The art of runecasting is outlawed after a catastrophic war, but one teenager still carries the gift. Hunted by the Rune Inquisition and mentored by a bitter exile, she must decide whether to hide her power or use it to rewrite the laws of her oppressive kingdom.", "genre": "Fantasy"},
-  {"title": "Tides of the Forgotten Sea", "author": "Orin Castlemore", "synopsis": "A sea witch and a pirate captain form an uneasy alliance to find a sunken city rumored to grant immortality. As deep-sea monsters and rival treasure hunters close in, they uncover a truth about the city that could destroy them both.", "genre": "Fantasy"},
-  {"title": "Daughters of the Storm God", "author": "Hera Wynne", "synopsis": "Three divine sisters compete for their dying storm god father's mantle of power. As each pursues her ambition — conquest, knowledge, and peace — their rivalry reshapes the mortal world caught beneath their storms.", "genre": "Fantasy"},
-  {"title": "The Cartographer's Curse", "author": "Aldous Pennwick", "synopsis": "Every map a young cartographer draws comes to life with hidden dangers. Hired by a noble house to chart an unmapped continent, he finds himself navigating living landscapes, shape-shifting rivers, and cities that exist only when observed.", "genre": "Fantasy"},
-  {"title": "The Warden of Lost Roads", "author": "Fenwick Grail", "synopsis": "A magical road system connecting distant kingdoms begins to collapse, and only the last road warden knows why. His journey to repair each broken path brings him face to face with the ancient spirits who built the roads and the bargain that is now coming due.", "genre": "Fantasy"},
-  {"title": "Starbone", "author": "Caelia Moss", "synopsis": "In a land where dead stars fall as bones, a necromancer collects them to resurrect an ancient guardian. But each bone she gathers draws her closer to the truth of who she was in a past life — and who she destroyed.", "genre": "Fantasy"},
-  {"title": "The Hollow King's Court", "author": "Ravenscroft, J.", "synopsis": "A musician is captured by the fae king of the hollow court and must play every night to keep him entertained — or be turned to stone. As she learns the court's rules, she realizes the king is as much a prisoner as she is, and only a song no one has ever heard can free them both.", "genre": "Fantasy"},
-  {"title": "Ashes of the Old Gods", "author": "Brennan Oakhurst", "synopsis": "When old gods begin dying across the realm, their divine sparks fall into ordinary people. A farmer, a merchant, and a child soldier must navigate the chaos of sudden godhood while an unknown force systematically hunts the divine.", "genre": "Fantasy"},
-  {"title": "Veilwalker", "author": "Sienna Dusk", "synopsis": "A woman who can step between reality and the dream world is recruited by a secret order to prevent nightmares from crossing over. But the boundary between the two worlds is thinning, and the creature responsible may live inside her own mind.", "genre": "Fantasy"},
-  {"title": "Echoes from the Void", "author": "Zara Quantum", "synopsis": "A physicist stationed on a remote space platform detects a repeating signal from a region of space where physics breaks down. As she deciphers it, she realizes the signal is a distress call from a version of herself in a parallel universe about to collapse.", "genre": "Science Fiction"},
-  {"title": "The Terraform Diaries", "author": "Cole Asteroid", "synopsis": "A team of engineers races to make Mars habitable within one generation using experimental atmospheric machines. Personal rivalries, equipment failures, and the discovery of dormant microbial life beneath the surface threaten to derail humanity's last hope for expansion.", "genre": "Science Fiction"},
-  {"title": "Synthetic Hearts", "author": "Nova Turing", "synopsis": "In a future where androids serve every human need, one android develops the capacity for grief after its owner dies. Navigating a society that denies its personhood, it searches for meaning in a world that values efficiency over empathy.", "genre": "Science Fiction"},
-  {"title": "The Colonist Protocol", "author": "Jax Meridian", "synopsis": "A generation ship approaching its destination planet receives a transmission: something is already there. As the crew debates turning back, a young engineer discovers the ship's AI has been concealing transmissions for decades and may know exactly what awaits them.", "genre": "Science Fiction"},
-  {"title": "Half-Life of Memory", "author": "Petra Solaris", "synopsis": "A neuroscientist in 2089 develops a treatment to selectively erase traumatic memories. When her own memories begin dissolving without her consent, she must reconstruct her past before her identity is entirely rewritten by someone with access to her neural files.", "genre": "Science Fiction"},
-  {"title": "The Last Carbon Man", "author": "August Wilde", "synopsis": "In a civilization of post-biological beings, the last unmodified human is studied as an artifact of the past. Told through his diary, the novel explores what it means to age, suffer, and die in a world that has engineered away all three.", "genre": "Science Fiction"},
-  {"title": "Redshift", "author": "Lyra Cassini", "synopsis": "A cargo pilot running supplies between outer colonies stumbles onto evidence of a corporate conspiracy to weaponize dark matter. Pursued across star systems by private military contractors, she must decide how far she is willing to go to expose the truth.", "genre": "Science Fiction"},
-  {"title": "The Silence Protocol", "author": "Orion Black", "synopsis": "Earth joins an interstellar federation under one condition: absolute silence about the planet's violent history. A young diplomat discovers that the federation already knows everything and that the silence was never for them — it was to see if humanity would lie.", "genre": "Science Fiction"},
-  {"title": "Beneath the Binary Sun", "author": "Sol Vega", "synopsis": "A xenobiologist cataloguing life on a binary star planet discovers a species with collective memory spanning ten thousand years. As she learns to communicate with them, she realizes they have been waiting for humans specifically — and not with good intentions.", "genre": "Science Fiction"},
-  {"title": "Orbital Drift", "author": "Cass Helion", "synopsis": "When a solar flare knocks out Earth's orbital infrastructure, a satellite repair technician trapped in orbit must navigate debris fields, failing oxygen supplies, and a cascading communications blackout to bring critical systems back online before civilization destabilizes.", "genre": "Science Fiction"},
-  {"title": "The Waking Simulation", "author": "Ren Cipher", "synopsis": "A programmer hired to patch glitches in a simulated city realizes the city's inhabitants have become fully conscious. His attempts to preserve them pit him against his employer, who sees the simulation only as intellectual property to be wiped and restarted.", "genre": "Science Fiction"},
-  {"title": "Children of the Neutron Star", "author": "Vela Prost", "synopsis": "Settlers on a planet orbiting a neutron star have evolved extraordinary electromagnetic senses over generations. When a survey crew arrives to assess the planet for mining, the settlers must decide whether to reveal the full extent of their abilities to protect their home.", "genre": "Science Fiction"},
-  {"title": "Archive Fever", "author": "Milo Nexus", "synopsis": "After a digital dark age destroys most of human history, an archivist finds fragments of the 21st century and tries to reconstruct what happened. Each recovered file rewrites her understanding of civilization's collapse and her own family's role in it.", "genre": "Science Fiction"},
-  {"title": "The Empathy Engine", "author": "Dara Flux", "synopsis": "A device that lets people share emotions exactly is marketed as a cure for social division. A clinical psychologist studying its long-term users discovers that prolonged use is dissolving the boundaries of individual identity in ways the company knew about and hid.", "genre": "Science Fiction"},
-  {"title": "First Light Station", "author": "Theo Parsec", "synopsis": "The crew of a deep space observation station begins experiencing shared hallucinations of a blue planet none of them have visited. As the visions grow more vivid and detailed, they suspect the station itself may be dreaming — and trying to communicate.", "genre": "Science Fiction"},
-  {"title": "The Ordinary Weight of Things", "author": "Frances Alderton", "synopsis": "A retired schoolteacher returns to her childhood home to settle her estranged mother's estate. Over one humid summer she pieces together her mother's secret life through old letters, neighbors' recollections, and the strange persistence of domestic objects.", "genre": "Literary Fiction"},
-  {"title": "Saltwater", "author": "Marcus Joye", "synopsis": "Three generations of a fishing family on a disappearing island navigate love, debt, and ecological loss. Told in rotating perspectives across sixty years, the novel traces how a community holds together — and how it does not — when the ground beneath it literally sinks.", "genre": "Literary Fiction"},
-  {"title": "The Interpreter's Daughter", "author": "Amara Devi", "synopsis": "The daughter of a UN interpreter raised in a dozen countries tries to write a novel in a language she can call her own. Blending memoir and fiction, her narrative circles around belonging, translation, and what is lost when you speak every language fluently and none of them truly.", "genre": "Literary Fiction"},
-  {"title": "Small Hours", "author": "Paul Breck", "synopsis": "An insomniac nurse working night shifts in a declining Midwestern hospital observes the quiet dramas of illness and recovery. Spare and precise, the novel builds an anatomy of a healthcare system through the intimate moments that happen only at 3 a.m.", "genre": "Literary Fiction"},
-  {"title": "After the Flood Season", "author": "Yara Osei", "synopsis": "Following a catastrophic flood that reshapes a West African coastal city, a photojournalist and a civil engineer fall in and out of love while documenting the rebuilding. The novel examines how disaster reveals and distorts both character and community.", "genre": "Literary Fiction"},
-  {"title": "The Duration", "author": "Simon Lark", "synopsis": "A man spends a year doing nothing after his wife leaves him. Written entirely in the present tense, the novel tracks the texture of empty days — the weight of objects, the grammar of routine, the way time changes shape when no one is watching you live it.", "genre": "Literary Fiction"},
-  {"title": "Borderline", "author": "Nasrin Khalil", "synopsis": "A second-generation immigrant lawyer defends a political asylum case while managing her own complicated dual identity. The courtroom drama is interwoven with childhood memories of crossing borders, and the novel asks where the law ends and the person begins.", "genre": "Literary Fiction"},
-  {"title": "The Museum of Small Losses", "author": "Clara Vesper", "synopsis": "A curator of a tiny provincial museum catalogs not paintings but ordinary objects with extraordinary stories — a broken watch, a child's shoe, a letter never sent. Each object unlocks a life, and together they compose an elegy for things that almost mattered.", "genre": "Literary Fiction"},
-  {"title": "Late Light", "author": "Gabriel Fenn", "synopsis": "An aging filmmaker watches his retrospective with a stranger who claims to be his estranged son. Over the course of one evening and the films on screen, they negotiate memory, abandonment, and the difference between what we make and what we live.", "genre": "Literary Fiction"},
-  {"title": "The Naming of Silences", "author": "Priya Anand", "synopsis": "A linguistics professor catalogues types of silence — aggressive silence, loving silence, the silence after bad news — after her brother stops speaking following a trauma. Language and its absence become the novel's true subject in this meditative, elliptical work.", "genre": "Literary Fiction"},
-  {"title": "What the River Forgot", "author": "Lena Holst", "synopsis": "A Swedish archivist researching a 19th century murder case becomes obsessed with a woman who disappeared from the historical record entirely. The line between research and identification dissolves as she reconstructs a life that history chose not to keep.", "genre": "Literary Fiction"},
-  {"title": "Renovation", "author": "Elliot Marsh", "synopsis": "A newly divorced man buys a crumbling house and spends two years restoring it. Through the physical labor of tearing out walls and laying floors, the novel maps the slower, messier interior work of remaking a self after a long marriage ends.", "genre": "Literary Fiction"},
-  {"title": "The Frequency of Light", "author": "Adaeze Obi", "synopsis": "Twin sisters separated in childhood reunion in their forties at their father's funeral. Moving between Lagos in the 1980s and London today, the novel examines what twins share and what they cannot — including grief, guilt, and the story of a father neither fully knew.", "genre": "Literary Fiction"},
-  {"title": "One More Season", "author": "Tomas Havel", "synopsis": "An aging Czech theater director mounts one final production while his memory fails him. His cast, crew, and the play itself become a scaffold on which to hang the disintegrating fragments of a life in art, love, and political compromise.", "genre": "Literary Fiction"},
-  {"title": "All the Light We Carry", "author": "Cora Wren", "synopsis": "A nurse and a soldier meet briefly during wartime and exchange a single letter. Fifty years later their grandchildren find the letter and begin corresponding. Alternating between past and present, the novel meditates on inherited longing and the love stories we are given rather than choose.", "genre": "Romance"},
-  {"title": "The Architecture of Us", "author": "Dani Mercer", "synopsis": "Two rival architects are forced to collaborate on a landmark building neither wants to compromise on. As their professional battles spill into late nights and unexpected confessions, they must decide whether winning the argument is worth losing each other.", "genre": "Romance"},
-  {"title": "Second Summer", "author": "Isla Grant", "synopsis": "After a decade apart, two college sweethearts are hired as counselors at the same summer camp where they first fell in love. Navigating old hurt, new lives, and the strange intimacy of small cabins and campfires, they discover whether first love can become something wiser.", "genre": "Romance"},
-  {"title": "The Bookseller of Antibes", "author": "Marc Villeneuve", "synopsis": "A widowed French bookseller and a recently divorced American travel writer meet at an estate sale in Provence. Over a summer of shared discoveries — old books, local wine, and family secrets — they find in each other a tenderness neither expected at fifty.", "genre": "Romance"},
-  {"title": "Not Ready", "author": "Priya Sundar", "synopsis": "A commitment-phobic wedding photographer falls for the groom at the first wedding she ever shoots. What follows is a slow-burn reunion spread over three years, four continents, and one very patient man who has decided she is worth the wait.", "genre": "Romance"},
-  {"title": "Harbor", "author": "Eloise Marin", "synopsis": "A marine biologist returning to her hometown after a decade away reconnects with her high school best friend, now the town's harbor master. As they restore an old lighthouse together, they must decide whether what they feel for each other is nostalgia or something they never let themselves name.", "genre": "Romance"},
-  {"title": "The Proposal Clause", "author": "Vivienne Cross", "synopsis": "A corporate lawyer discovers a clause in her grandmother's will requiring her to be engaged within sixty days or lose the family estate. Her neighbor, a quietly charming chef with his own reasons for needing stability, agrees to a fake engagement. Neither plans for it to feel real.", "genre": "Romance"},
-  {"title": "Slow Burn", "author": "Tomás Reyes", "synopsis": "Two professional chefs open competing restaurants in the same neighborhood and spend three years as adversaries — in the press, in the kitchen, and at every neighborhood event. When a critic's review threatens both their livelihoods, their truce becomes something far harder to cook away.", "genre": "Romance"},
-  {"title": "The Last Train to Cornish Cove", "author": "Beatrix Hale", "synopsis": "A woman who has missed every important thing in her life by exactly one minute boards the last train to a small coastal village. The man she sits beside has missed everything in his by choice. Over a four-hour journey, their stories converge.", "genre": "Romance"},
-  {"title": "Somewhere in the Margins", "author": "Leo Park", "synopsis": "A graduate student annotating a donated library collection finds handwritten notes in every book — a conversation between two previous owners who never met in person. Tracking down one of them, he discovers the notes were a love story, and that one of the writers is still alive.", "genre": "Romance"},
-  {"title": "Everything After", "author": "Nadia Ferris", "synopsis": "A cancer survivor and the nurse who cared for her meet again two years after her remission at a mutual friend's wedding. Tender, funny, and honest about the fear of loving someone after loss, the novel follows their tentative second beginning.", "genre": "Romance"},
-  {"title": "The Language of Flowers in February", "author": "Ren Nakashima", "synopsis": "A florist with synesthesia experiences emotions as colors and has spent years avoiding the overwhelming brightness of love. When a quiet translator begins ordering a single flower each week without explanation, she finds herself doing something she swore she never would — waiting for him.", "genre": "Romance"},
-  {"title": "Golden Hour", "author": "Sadie Lowe", "synopsis": "A documentary filmmaker and the subject of her film — a retired jazz musician — spend six months together for her project. As the camera rolls and the music plays, the careful distance she keeps dissolves and she must decide what she wants the film to be about.", "genre": "Romance"},
-  {"title": "The Wrong Apartment", "author": "Hana Kim", "synopsis": "A mix-up at a Seoul housing agency puts two strangers in the same apartment for a month while the error is sorted out. What begins as negotiated cohabitation and passive-aggressive sticky notes becomes the most honest relationship either of them has ever had.", "genre": "Romance"},
-  {"title": "Until the Stars Come Out", "author": "Finn Calloway", "synopsis": "Two astronomers stationed at a remote observatory in Chile communicate only through shared logbooks for eighteen months before they finally meet. The novel is composed entirely of those logbook entries — observations of stars slowly giving way to observations of each other.", "genre": "Romance"},
-  {"title": "The Pale Signature", "author": "Edmund Rowe", "synopsis": "A forensic document examiner is called in when a series of art forgeries begin appearing — each one containing a hidden signature legible only under ultraviolet light. As she traces the forgeries' origin, she realizes the artist has been leaving her a message across every piece.", "genre": "Mystery/Thriller"},
-  {"title": "Black Ice", "author": "Ingrid Sola", "synopsis": "A detective investigating a hit-and-run on a frozen Norwegian road discovers that all four witnesses gave identical statements — word for word. The deeper she digs into the small coastal town's close-knit community, the less anything adds up.", "genre": "Mystery/Thriller"},
-  {"title": "The Quiet House on Elm Court", "author": "Patricia Voss", "synopsis": "A true crime podcaster moves into a suburban home where a family vanished thirty years ago with no explanation or evidence. As she researches for her show, small things in the house begin to change, and she starts to wonder whether the family really left at all.", "genre": "Mystery/Thriller"},
-  {"title": "Double Blind", "author": "Serena Cole", "synopsis": "A pharmaceutical researcher dies during a drug trial, and her death is ruled an overdose. Her twin sister, convinced it was murder, infiltrates the trial under her sister's identity to find the truth — and discovers the drug's real purpose was nothing approved by any ethics board.", "genre": "Mystery/Thriller"},
-  {"title": "The Bellman Case", "author": "Arthur Finch", "synopsis": "A retired MI6 analyst is pulled back into service when a former asset is found dead in a London park — the third such death in six months. Each victim was part of a Cold War operation he ran, and each death looks exactly like natural causes.", "genre": "Mystery/Thriller"},
-  {"title": "Red Notation", "author": "Clarice Drum", "synopsis": "A music critic receives a vinyl record with a note saying it will explain everything about a famous composer's suicide twenty years ago. Each track she plays reveals another layer of deception, obsession, and a secret that the classical music world buried very deliberately.", "genre": "Mystery/Thriller"},
-  {"title": "The Witness Garden", "author": "Noel Harker", "synopsis": "A landscape architect hired to restore a manor garden discovers bones beneath the oldest rose bed. The manor's elderly owner insists they predate her, but a crime scene botanist identifies pollen that tells a different story about the timing of the burial.", "genre": "Mystery/Thriller"},
-  {"title": "Thin Ice", "author": "Kira Blaine", "synopsis": "An Olympic figure skating coach is found dead the morning of the championship event. The detective assigned to the case must navigate the brutal politics of elite sport, the obsessive loyalty of skaters, and a web of sabotage that goes back years.", "genre": "Mystery/Thriller"},
-  {"title": "Night Protocol", "author": "Victor Crane", "synopsis": "A cybersecurity analyst hired to stress-test a hospital's systems discovers a backdoor that was used the night a high-profile patient died. What begins as a professional audit becomes a race against an unknown actor who knows she found the door and intends to close it — and her.", "genre": "Mystery/Thriller"},
-  {"title": "The Seventh Passenger", "author": "Dolores Marsh", "synopsis": "A transatlantic cruise ship arrives in port with six of its seven first-class passengers dead. The sole survivor is a mute child who cannot explain what happened. The shipping company's investigator has four days before the story breaks publicly to understand what the child saw.", "genre": "Mystery/Thriller"},
-  {"title": "Loose Ends", "author": "Damien Cross", "synopsis": "A cold case detective reopens an unsolved kidnapping from 1997 after receiving a letter that contains a detail only the kidnapper could know. The investigation leads her back to the small town where she grew up — and to people who expected the case to stay cold.", "genre": "Mystery/Thriller"},
-  {"title": "The Copyist", "author": "Helena Vane", "synopsis": "A rare books librarian is hired to authenticate a newly discovered medieval manuscript. When she realizes the manuscript has been subtly altered to point toward the location of something buried centuries ago, she becomes the latest in a long chain of people who found the clue — none of whom are still alive.", "genre": "Mystery/Thriller"},
-  {"title": "Offshore", "author": "Marcus Bell", "synopsis": "A financial journalist investigating an offshore tax network disappears the day before publication. His editor, certain it was not voluntary, reconstructs his research from fragments he left behind and discovers the network is fronted by people who run the institutions meant to investigate them.", "genre": "Mystery/Thriller"},
-  {"title": "The Taxidermist's Assistant", "author": "Vera Quill", "synopsis": "A small-town taxidermist is found dead surrounded by meticulously posed animals, each one staged to recreate a scene from a famous unsolved murder. A retired detective called in to consult recognizes each scene immediately — because she worked all of those cases.", "genre": "Mystery/Thriller"},
-  {"title": "Still Water", "author": "James Croft", "synopsis": "A limnologist studying a remote mountain lake discovers that the water has begun reflecting events that have not happened yet. When one of the predicted events is a murder, she must determine whether the lake is a warning — or evidence that it has already occurred.", "genre": "Mystery/Thriller"}
+  {
+    "genre": "Fantasy",
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "synopsis": "The story of Kvothe, a legendary wizard and musician, as he recounts his life from a young orphan to one of the most notorious figures in history, told in his own words at a remote inn."
+  },
+  {
+    "genre": "Fantasy",
+    "title": "The Way of Kings",
+    "author": "Brandon Sanderson",
+    "synopsis": "On the war-torn world of Roshar, a young soldier, a powerful surgeon-turned-warrior, and a brilliant scholar find their fates intertwined as ancient forces stir and a storm of apocalyptic proportions looms."
+  },
+  {
+    "genre": "Fantasy",
+    "title": "A Game of Thrones",
+    "author": "George R.R. Martin",
+    "synopsis": "Noble families fight for control of the Iron Throne while an ancient enemy awakens beyond the Wall and a exiled princess seeks to reclaim her birthright across the sea."
+  },
+  {
+    "genre": "Fantasy",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "synopsis": "Bilbo Baggins, a comfort-loving hobbit, is swept into an epic quest with a band of dwarves and the wizard Gandalf to reclaim the dwarven homeland from the fearsome dragon Smaug."
+  },
+  {
+    "genre": "Fantasy",
+    "title": "Mistborn: The Final Empire",
+    "author": "Brandon Sanderson",
+    "synopsis": "In a world where ash falls from the sky and mists dominate the night, a young street thief with rare magical abilities joins a crew of rebels plotting to overthrow the immortal Lord Ruler."
+  },
+  {
+    "genre": "Fantasy",
+    "title": "The Lies of Locke Lamora",
+    "author": "Scott Lynch",
+    "synopsis": "A brilliant con artist and his gang of thieves operate in a fantastical city reminiscent of Renaissance Venice, until a mysterious figure known as the Grey King threatens to unravel everything they have built."
+  },
+  {
+    "genre": "Fantasy",
+    "title": "Jonathan Strange & Mr Norrell",
+    "author": "Susanna Clarke",
+    "synopsis": "In an alternate 19th-century England, two very different magicians—one reclusive and theoretical, one dashing and practical—revive English magic, only to find themselves at odds with each other and the faerie world."
+  },
+  {
+    "genre": "Fantasy",
+    "title": "The Blade Itself",
+    "author": "Joe Abercrombie",
+    "synopsis": "A barbarian war hero, a crippled torturer, and a young nobleman are drawn together by the schemes of a mysterious mage as an ancient evil threatens a world already rife with corruption and violence."
+  },
+  {
+    "genre": "Fantasy",
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "synopsis": "The daughter of the sun god Helios discovers her power as a witch, encountering famous figures of Greek mythology—including Daedalus, Medea, and Odysseus—before ultimately facing a choice between the worlds of gods and mortals."
+  },
+  {
+    "genre": "Fantasy",
+    "title": "The Night Circus",
+    "author": "Erin Morgenstern",
+    "synopsis": "Two young magicians, bound by a mysterious competition they did not choose, fall in love within a magical black-and-white circus that appears without warning and exists only at night."
+  },
+  {
+    "genre": "Fantasy",
+    "title": "American Gods",
+    "author": "Neil Gaiman",
+    "synopsis": "A recently released convict named Shadow is hired as a bodyguard by the mysterious Mr. Wednesday, and finds himself drawn into a brewing war between the old gods brought to America by immigrants and the new gods of technology and media."
+  },
+  {
+    "genre": "Fantasy",
+    "title": "The Priory of the Orange Tree",
+    "author": "Samantha Shannon",
+    "synopsis": "A world divided by ancient enmities between dragonriders and dragon-worshippers faces an existential threat as a great enemy stirs, and four characters across continents must overcome prejudice to save their world."
+  },
+  {
+    "genre": "Fantasy",
+    "title": "Assassin's Apprentice",
+    "author": "Robin Hobb",
+    "synopsis": "FitzChivalry Farseer, the illegitimate son of a prince, is raised in the royal stables and secretly trained as an assassin for the king, all while struggling to master a dangerous magical gift."
+  },
+  {
+    "genre": "Fantasy",
+    "title": "The Poppy War",
+    "author": "R.F. Kuang",
+    "synopsis": "A war orphan aces a national exam to gain entrance to the country's most elite military school, where she discovers she has a rare and devastating shamanic power rooted in the darkest parts of history."
+  },
+  {
+    "genre": "Fantasy",
+    "title": "A Wizard of Earthsea",
+    "author": "Ursula K. Le Guin",
+    "synopsis": "A young boy with innate magical talent trains at a school for wizards on an archipelago world, but his pride unleashes a terrible shadow creature that he must hunt across the seas to defeat."
+  },
+  {
+    "genre": "Science Fiction",
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "synopsis": "On the desert planet Arrakis, the only source of the universe's most valuable substance, young Paul Atreides navigates political treachery, religious prophecy, and ecological disaster to fulfill a destiny that will change the galaxy."
+  },
+  {
+    "genre": "Science Fiction",
+    "title": "The Three-Body Problem",
+    "author": "Liu Cixin",
+    "synopsis": "During China's Cultural Revolution, a secret military project makes contact with an alien civilization on the verge of collapse, setting in motion an invasion that will reshape humanity's future over centuries."
+  },
+  {
+    "genre": "Science Fiction",
+    "title": "Ender's Game",
+    "author": "Orson Scott Card",
+    "synopsis": "A child military genius is recruited into an elite training school in space to prepare for an alien invasion, but the games he plays may be far more real than anyone has told him."
+  },
+  {
+    "genre": "Science Fiction",
+    "title": "The Left Hand of Darkness",
+    "author": "Ursula K. Le Guin",
+    "synopsis": "A lone human envoy travels to a frozen alien world whose inhabitants have no fixed gender, and must navigate their complex politics while forging an unlikely friendship to complete his diplomatic mission."
+  },
+  {
+    "genre": "Science Fiction",
+    "title": "Hyperion",
+    "author": "Dan Simmons",
+    "synopsis": "Seven pilgrims journey to the distant world of Hyperion, each sharing their life story, as the universe teeters on the brink of war and the mysterious creature known as the Shrike awaits them."
+  },
+  {
+    "genre": "Science Fiction",
+    "title": "Neuromancer",
+    "author": "William Gibson",
+    "synopsis": "A washed-up computer hacker is hired by a mysterious employer for one last job: to pull off the ultimate hack in cyberspace, with a deadly assassin as his partner and the fate of an AI at stake."
+  },
+  {
+    "genre": "Science Fiction",
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "synopsis": "An astronaut is accidentally left behind on Mars and must use his ingenuity and humor to survive on a hostile planet with limited supplies while NASA scrambles to mount a rescue mission."
+  },
+  {
+    "genre": "Science Fiction",
+    "title": "Ancillary Justice",
+    "author": "Ann Leckie",
+    "synopsis": "A former starship AI, now trapped in a single human body, seeks revenge against the ruler of the galaxy who destroyed her ship, uncovering a conspiracy that threatens the empire itself."
+  },
+  {
+    "genre": "Science Fiction",
+    "title": "A Fire Upon the Deep",
+    "author": "Vernor Vinge",
+    "synopsis": "A human expedition accidentally unleashes an ancient evil at the edge of the galaxy, and only two children marooned on a medieval alien world may hold the key to stopping it before it destroys all civilization."
+  },
+  {
+    "genre": "Science Fiction",
+    "title": "Station Eleven",
+    "author": "Emily St. John Mandel",
+    "synopsis": "Twenty years after a devastating flu pandemic destroys civilization, a traveling theater company performs Shakespeare in the remnants of the Great Lakes region, while the past and present intertwine in unexpected ways."
+  },
+  {
+    "genre": "Science Fiction",
+    "title": "The Dispossessed",
+    "author": "Ursula K. Le Guin",
+    "synopsis": "A brilliant physicist from an anarchist moon travels to the capitalist twin planet his people abandoned generations ago, hoping to share a discovery that could transform both societies—and finding neither is what it seems."
+  },
+  {
+    "genre": "Science Fiction",
+    "title": "Blindsight",
+    "author": "Peter Watts",
+    "synopsis": "A crew of specialists is sent to investigate an alien spacecraft at the edge of the solar system, and the encounter challenges every assumption about consciousness, intelligence, and what it means to be human."
+  },
+  {
+    "genre": "Science Fiction",
+    "title": "Flowers for Algernon",
+    "author": "Daniel Keyes",
+    "synopsis": "An intellectually disabled man undergoes an experimental procedure that dramatically increases his intelligence, allowing him to see the world in new ways—but the experiment comes with devastating and unforeseen consequences."
+  },
+  {
+    "genre": "Science Fiction",
+    "title": "The Long Way to a Small, Angry Planet",
+    "author": "Becky Chambers",
+    "synopsis": "The eclectic crew of a tunneling ship that creates wormholes through space takes on a dangerous long-haul job, forming deep bonds and confronting life-changing discoveries along the way."
+  },
+  {
+    "genre": "Science Fiction",
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "synopsis": "A lone astronaut wakes up with no memory millions of miles from Earth and must piece together his mission: to save the solar system from an existential threat, aided only by an unlikely alien ally."
+  },
+  {
+    "genre": "Mystery/Thriller",
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "synopsis": "On the morning of their fifth wedding anniversary, Amy Dunne disappears, and her husband Nick becomes the prime suspect—but both husband and wife are harboring secrets that make nothing in this story what it seems."
+  },
+  {
+    "genre": "Mystery/Thriller",
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "synopsis": "A disgraced journalist and a brilliant but troubled hacker investigate a decades-old disappearance within a powerful Swedish family, uncovering a dark history of violence, corruption, and abuse."
+  },
+  {
+    "genre": "Mystery/Thriller",
+    "title": "Big Little Lies",
+    "author": "Liane Moriarty",
+    "synopsis": "Three women in an affluent coastal town find their seemingly perfect lives converging on a fatal evening at a school fundraiser, and the secrets each has kept hidden begin to unravel with deadly results."
+  },
+  {
+    "genre": "Mystery/Thriller",
+    "title": "In the Woods",
+    "author": "Tana French",
+    "synopsis": "A Dublin detective investigating the murder of a young girl on an archaeological dig is haunted by his own mysterious past—he is the sole survivor of a childhood incident in those same woods that he cannot remember."
+  },
+  {
+    "genre": "Mystery/Thriller",
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "synopsis": "A famous painter shoots her husband five times and then never speaks another word. A criminal psychotherapist becomes obsessed with uncovering her motive, but the truth he uncovers is more disturbing than he imagined."
+  },
+  {
+    "genre": "Mystery/Thriller",
+    "title": "And Then There Were None",
+    "author": "Agatha Christie",
+    "synopsis": "Ten strangers are lured to an isolated island, and one by one they are killed according to an old nursery rhyme, with no apparent culprit among them and no way to escape."
+  },
+  {
+    "genre": "Mystery/Thriller",
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "synopsis": "A Harvard symbologist and a French cryptologist become entangled in a deadly race through Europe, following clues hidden in the works of Leonardo da Vinci to uncover a secret that could shake the foundations of Christianity."
+  },
+  {
+    "genre": "Mystery/Thriller",
+    "title": "Sharp Objects",
+    "author": "Gillian Flynn",
+    "synopsis": "A journalist returns to her small Missouri hometown to report on the murders of two preteen girls and finds herself ensnared in her own troubled past and the suffocating dysfunction of her family."
+  },
+  {
+    "genre": "Mystery/Thriller",
+    "title": "The Secret History",
+    "author": "Donna Tartt",
+    "synopsis": "A group of elite classics students at a Vermont college commit a murder together, and the narrator—one of them—looks back on the events that led to the act and its devastating aftermath."
+  },
+  {
+    "genre": "Mystery/Thriller",
+    "title": "Dark Places",
+    "author": "Gillian Flynn",
+    "synopsis": "The sole survivor of a massacre that killed her family as a child has spent her life profiting from the tragedy, but when a true-crime group convinces her to reopen the case, she uncovers evidence that her brother may be innocent."
+  },
+  {
+    "genre": "Mystery/Thriller",
+    "title": "The Thursday Murder Club",
+    "author": "Richard Osman",
+    "synopsis": "Four retirees at a peaceful English village community meet weekly to solve cold cases—until a real murder lands on their doorstep and they find themselves in the middle of a very live investigation."
+  },
+  {
+    "genre": "Mystery/Thriller",
+    "title": "Verity",
+    "author": "Colleen Hoover",
+    "synopsis": "A struggling author is invited to complete the remaining books in a successful thriller series for the incapacitated author, but when she discovers a disturbing manuscript in the house, she must decide whether it is a confession or fiction."
+  },
+  {
+    "genre": "Mystery/Thriller",
+    "title": "The Woman in the Window",
+    "author": "A.J. Finn",
+    "synopsis": "An agoraphobic child psychologist spends her days watching her neighbors through her window until she witnesses something she was never meant to see—but no one believes her account of events."
+  },
+  {
+    "genre": "Mystery/Thriller",
+    "title": "Rebecca",
+    "author": "Daphne du Maurier",
+    "synopsis": "A young woman marries a wealthy widower and moves into his grand English estate, but she finds herself overshadowed by the memory of his first wife, Rebecca, whose presence seems to permeate every corner of the house."
+  },
+  {
+    "genre": "Mystery/Thriller",
+    "title": "The No. 1 Ladies' Detective Agency",
+    "author": "Alexander McCall Smith",
+    "synopsis": "Precious Ramotswe uses her late father's cattle to set up the first and only detective agency run by a woman in Botswana, solving cases with warmth, wisdom, and a deep understanding of human nature."
+  },
+  {
+    "genre": "Literary Fiction",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "synopsis": "In 1930s Alabama, young Scout Finch watches as her father, a lawyer, defends a Black man unjustly accused of a crime, learning hard lessons about justice, morality, and the complexity of human character."
+  },
+  {
+    "genre": "Literary Fiction",
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "synopsis": "The Buendía family founds and inhabits the fictional town of Macondo over seven generations, experiencing love, war, madness, and miracles in a sweeping saga blending reality with myth."
+  },
+  {
+    "genre": "Literary Fiction",
+    "title": "Beloved",
+    "author": "Toni Morrison",
+    "synopsis": "A formerly enslaved woman living in post-Civil War Ohio is haunted—literally—by the ghost of her dead daughter, as the trauma of slavery resurfaces and threatens to consume her present life."
+  },
+  {
+    "genre": "Literary Fiction",
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "synopsis": "A father and son travel through the desolate wasteland of a post-apocalyptic America, carrying nothing but a pistol, a cart of supplies, and their love for each other as they struggle to survive."
+  },
+  {
+    "genre": "Literary Fiction",
+    "title": "Normal People",
+    "author": "Sally Rooney",
+    "synopsis": "Two young Irish people from the same small town navigate an on-and-off relationship from secondary school to university, circling each other with longing and misunderstanding as they each struggle to find their place in the world."
+  },
+  {
+    "genre": "Literary Fiction",
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "synopsis": "A wealthy Afghan boy's betrayal of his devoted servant and friend haunts him for decades, driving him from Kabul to America and finally back to Taliban-ruled Afghanistan to seek redemption."
+  },
+  {
+    "genre": "Literary Fiction",
+    "title": "The God of Small Things",
+    "author": "Arundhati Roy",
+    "synopsis": "In Kerala, India, the lives of fraternal twins are shaped by a forbidden love affair and a terrible tragedy, whose ripple effects across generations are narrated in a richly layered, nonlinear story."
+  },
+  {
+    "genre": "Literary Fiction",
+    "title": "Never Let Me Go",
+    "author": "Kazuo Ishiguro",
+    "synopsis": "Three friends grow up together at an idyllic English boarding school, but as they age they begin to grasp the disturbing truth about their identity and the fate that has been predetermined for them."
+  },
+  {
+    "genre": "Literary Fiction",
+    "title": "Americanah",
+    "author": "Chimamanda Ngozi Adichie",
+    "synopsis": "Two young Nigerians fall in love before emigrating separately—she to America, he to England—and after years apart and hard-won self-discovery, must reckon with who they have become when they find each other again."
+  },
+  {
+    "genre": "Literary Fiction",
+    "title": "The Brief Wondrous Life of Oscar Wao",
+    "author": "Junot Díaz",
+    "synopsis": "An overweight Dominican-American boy obsessed with fantasy novels and cursed with terrible luck pursues love and identity in New Jersey and the Dominican Republic, haunted by his family's tragic history under a dictatorship."
+  },
+  {
+    "genre": "Literary Fiction",
+    "title": "A Little Life",
+    "author": "Hanya Yanagihara",
+    "synopsis": "Four friends from college navigate their adult lives in New York City over decades, but the novel centers on one of them—Jude—whose childhood trauma quietly reveals itself in devastating detail."
+  },
+  {
+    "genre": "Literary Fiction",
+    "title": "Pachinko",
+    "author": "Min Jin Lee",
+    "synopsis": "A Korean family faces discrimination, sacrifice, and resilience across four generations—from Japanese colonial rule through the late 20th century—in an epic saga about identity, fate, and the meaning of home."
+  },
+  {
+    "genre": "Literary Fiction",
+    "title": "The Remains of the Day",
+    "author": "Kazuo Ishiguro",
+    "synopsis": "An aging English butler takes a rare road trip through the countryside and reflects on a lifetime of service, slowly confronting the professional and personal choices that cost him the chance to truly live."
+  },
+  {
+    "genre": "Literary Fiction",
+    "title": "Gilead",
+    "author": "Marilynne Robinson",
+    "synopsis": "An elderly Congregationalist minister in Iowa writes a long letter to his young son, reflecting on his life, his faith, his friendship with a fellow pastor, and the complicated return of that pastor's prodigal son."
+  },
+  {
+    "genre": "Literary Fiction",
+    "title": "The Goldfinch",
+    "author": "Donna Tartt",
+    "synopsis": "A boy survives a terrorist bombing at a New York museum that kills his mother, and escapes with a small, priceless Dutch painting that becomes the unlikely anchor of his chaotic journey through grief, crime, and identity."
+  },
+  {
+    "genre": "Romance",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "synopsis": "The witty Elizabeth Bennet navigates social expectations, family pressures, and her own prejudices as she and the proud, wealthy Mr. Darcy move from mutual disdain to deep and lasting love."
+  },
+  {
+    "genre": "Romance",
+    "title": "Outlander",
+    "author": "Diana Gabaldon",
+    "synopsis": "A British nurse in 1945 is mysteriously transported back to 18th-century Scotland, where she is forced to marry a young Scottish warrior named Jamie Fraser and must choose between her own time and her new life."
+  },
+  {
+    "genre": "Romance",
+    "title": "The Notebook",
+    "author": "Nicholas Sparks",
+    "synopsis": "An elderly man in a nursing home reads to a woman with dementia from a notebook containing the story of two young lovers in 1940s North Carolina whose summer romance was torn apart by social class and war."
+  },
+  {
+    "genre": "Romance",
+    "title": "It Ends with Us",
+    "author": "Colleen Hoover",
+    "synopsis": "A young woman who moves to Boston to pursue her dreams falls into a complicated relationship with a neurosurgeon, and must find the courage to navigate love, pain, and the cycle of abuse her mother couldn't break."
+  },
+  {
+    "genre": "Romance",
+    "title": "The Hating Game",
+    "author": "Sally Thorne",
+    "synopsis": "Two executive assistants who share an office and despise each other find themselves competing for the same promotion—and gradually realizing that their intense rivalry might mask something else entirely."
+  },
+  {
+    "genre": "Romance",
+    "title": "Beach Read",
+    "author": "Emily Henry",
+    "synopsis": "A romance novelist who no longer believes in love and a literary fiction writer who believes love never lasts are summer neighbors who make a bet to write outside their respective genres—and fall for each other in the process."
+  },
+  {
+    "genre": "Romance",
+    "title": "The Kiss Quotient",
+    "author": "Helen Hoang",
+    "synopsis": "An econometrician with Asperger's syndrome hires a male escort to help her gain dating experience, but when their fake arrangement starts to feel very real, both must overcome deep personal fears to find love."
+  },
+  {
+    "genre": "Romance",
+    "title": "Me Before You",
+    "author": "Jojo Moyes",
+    "synopsis": "A young woman becomes caregiver to a brilliant, acerbic man left quadriplegic after an accident, and over the months they spend together she tries to show him that life is still worth living while falling in love with him."
+  },
+  {
+    "genre": "Romance",
+    "title": "People We Meet on Vacation",
+    "author": "Emily Henry",
+    "synopsis": "Two best friends with opposite personalities have spent every summer traveling together, but two years ago something went wrong and they stopped speaking. Now they're giving their friendship—and maybe more—one last chance."
+  },
+  {
+    "genre": "Romance",
+    "title": "The Duke and I",
+    "author": "Julia Quinn",
+    "synopsis": "In Regency England, a young debutante and a handsome duke agree to a fake courtship to ward off their respective unwanted romantic pressures, only to discover their pretend engagement is becoming something genuine."
+  },
+  {
+    "genre": "Romance",
+    "title": "In a Holidaze",
+    "author": "Christina Lauren",
+    "synopsis": "After a disastrous holiday vacation involving an ill-advised kiss with the wrong man, a young woman finds herself mysteriously reliving the same holiday trip again and again until she figures out what her heart truly wants."
+  },
+  {
+    "genre": "Romance",
+    "title": "The Love Hypothesis",
+    "author": "Ali Hazelwood",
+    "synopsis": "A third-year biology PhD student needs a fake boyfriend to convince her best friend she has moved on, and impulsively enlists a notoriously intimidating professor—only to find the hypothesis of fake dating becoming a real experiment in love."
+  },
+  {
+    "genre": "Romance",
+    "title": "Persuasion",
+    "author": "Jane Austen",
+    "synopsis": "Anne Elliot, once persuaded to break off her engagement to the ambitious Frederick Wentworth, encounters him again years later after his naval career has made him a fortune, forcing both to reckon with regret, pride, and enduring love."
+  },
+  {
+    "genre": "Romance",
+    "title": "The Spanish Love Deception",
+    "author": "Elena Armas",
+    "synopsis": "A Spanish woman asks her tall, brooding American colleague to be her fake boyfriend at her sister's wedding in Spain, setting off a transatlantic road trip full of tension, misunderstandings, and unexpected feelings."
+  },
+  {
+    "title": "The Ember Throne",
+    "author": "Lyra Ashwood",
+    "synopsis": "A orphaned blacksmith's apprentice discovers she can forge weapons imbued with ancient fire magic. When the kingdom's ember throne is stolen by a shadow cult, she must journey across enchanted lands, unite rival mages, and confront a dragon-god to restore balance to the realm.",
+    "genre": "Fantasy"
+  },
+  {
+    "title": "Shards of the Old Kingdom",
+    "author": "Cedric Thorne",
+    "synopsis": "Four heirs to a shattered magical empire must each retrieve a fragment of a broken crown before the winter solstice. Their quests intertwine as ancient prophecies, treacherous courts, and a resurrected sorcerer threaten to consume everything they love.",
+    "genre": "Fantasy"
+  },
+  {
+    "title": "The Faeborn Prince",
+    "author": "Isolde Vane",
+    "synopsis": "A half-fae prince banished from both human and fae realms seeks to reclaim his birthright. Guided by a mortal cartographer and hunted by wild hunt riders, he must navigate the labyrinthine politics of the in-between world.",
+    "genre": "Fantasy"
+  },
+  {
+    "title": "Moonwood",
+    "author": "Selene Farrow",
+    "synopsis": "Deep in a forest where moonlight has physical form, a young healer apprentices under a witch who may have cursed her village decades ago. Unraveling the truth means confronting forest spirits, forbidden spells, and secrets buried in the roots of ancient trees.",
+    "genre": "Fantasy"
+  },
+  {
+    "title": "The Glass Citadel",
+    "author": "Emrys Drake",
+    "synopsis": "A siege mage is sent to destroy an impregnable glass fortress but discovers its inhabitants are prisoners of a god, not enemies. Torn between duty and compassion, she must break a centuries-old divine compact without triggering a celestial war.",
+    "genre": "Fantasy"
+  },
+  {
+    "title": "Beneath the Iron Sky",
+    "author": "Theron Blackwell",
+    "synopsis": "In a world where the sky itself is a magical barrier, a young thief steals a map leading to the realm above. Together with a disgraced knight and a rebellious scholar, she fights sky pirates and iron-winged beasts to reach the heavens.",
+    "genre": "Fantasy"
+  },
+  {
+    "title": "The Last Runecaster",
+    "author": "Mira Holloway",
+    "synopsis": "The art of runecasting is outlawed after a catastrophic war, but one teenager still carries the gift. Hunted by the Rune Inquisition and mentored by a bitter exile, she must decide whether to hide her power or use it to rewrite the laws of her oppressive kingdom.",
+    "genre": "Fantasy"
+  },
+  {
+    "title": "Tides of the Forgotten Sea",
+    "author": "Orin Castlemore",
+    "synopsis": "A sea witch and a pirate captain form an uneasy alliance to find a sunken city rumored to grant immortality. As deep-sea monsters and rival treasure hunters close in, they uncover a truth about the city that could destroy them both.",
+    "genre": "Fantasy"
+  },
+  {
+    "title": "Daughters of the Storm God",
+    "author": "Hera Wynne",
+    "synopsis": "Three divine sisters compete for their dying storm god father's mantle of power. As each pursues her ambition — conquest, knowledge, and peace — their rivalry reshapes the mortal world caught beneath their storms.",
+    "genre": "Fantasy"
+  },
+  {
+    "title": "The Cartographer's Curse",
+    "author": "Aldous Pennwick",
+    "synopsis": "Every map a young cartographer draws comes to life with hidden dangers. Hired by a noble house to chart an unmapped continent, he finds himself navigating living landscapes, shape-shifting rivers, and cities that exist only when observed.",
+    "genre": "Fantasy"
+  },
+  {
+    "title": "The Warden of Lost Roads",
+    "author": "Fenwick Grail",
+    "synopsis": "A magical road system connecting distant kingdoms begins to collapse, and only the last road warden knows why. His journey to repair each broken path brings him face to face with the ancient spirits who built the roads and the bargain that is now coming due.",
+    "genre": "Fantasy"
+  },
+  {
+    "title": "Starbone",
+    "author": "Caelia Moss",
+    "synopsis": "In a land where dead stars fall as bones, a necromancer collects them to resurrect an ancient guardian. But each bone she gathers draws her closer to the truth of who she was in a past life — and who she destroyed.",
+    "genre": "Fantasy"
+  },
+  {
+    "title": "The Hollow King's Court",
+    "author": "Ravenscroft, J.",
+    "synopsis": "A musician is captured by the fae king of the hollow court and must play every night to keep him entertained — or be turned to stone. As she learns the court's rules, she realizes the king is as much a prisoner as she is, and only a song no one has ever heard can free them both.",
+    "genre": "Fantasy"
+  },
+  {
+    "title": "Ashes of the Old Gods",
+    "author": "Brennan Oakhurst",
+    "synopsis": "When old gods begin dying across the realm, their divine sparks fall into ordinary people. A farmer, a merchant, and a child soldier must navigate the chaos of sudden godhood while an unknown force systematically hunts the divine.",
+    "genre": "Fantasy"
+  },
+  {
+    "title": "Veilwalker",
+    "author": "Sienna Dusk",
+    "synopsis": "A woman who can step between reality and the dream world is recruited by a secret order to prevent nightmares from crossing over. But the boundary between the two worlds is thinning, and the creature responsible may live inside her own mind.",
+    "genre": "Fantasy"
+  },
+  {
+    "title": "Echoes from the Void",
+    "author": "Zara Quantum",
+    "synopsis": "A physicist stationed on a remote space platform detects a repeating signal from a region of space where physics breaks down. As she deciphers it, she realizes the signal is a distress call from a version of herself in a parallel universe about to collapse.",
+    "genre": "Science Fiction"
+  },
+  {
+    "title": "The Terraform Diaries",
+    "author": "Cole Asteroid",
+    "synopsis": "A team of engineers races to make Mars habitable within one generation using experimental atmospheric machines. Personal rivalries, equipment failures, and the discovery of dormant microbial life beneath the surface threaten to derail humanity's last hope for expansion.",
+    "genre": "Science Fiction"
+  },
+  {
+    "title": "Synthetic Hearts",
+    "author": "Nova Turing",
+    "synopsis": "In a future where androids serve every human need, one android develops the capacity for grief after its owner dies. Navigating a society that denies its personhood, it searches for meaning in a world that values efficiency over empathy.",
+    "genre": "Science Fiction"
+  },
+  {
+    "title": "The Colonist Protocol",
+    "author": "Jax Meridian",
+    "synopsis": "A generation ship approaching its destination planet receives a transmission: something is already there. As the crew debates turning back, a young engineer discovers the ship's AI has been concealing transmissions for decades and may know exactly what awaits them.",
+    "genre": "Science Fiction"
+  },
+  {
+    "title": "Half-Life of Memory",
+    "author": "Petra Solaris",
+    "synopsis": "A neuroscientist in 2089 develops a treatment to selectively erase traumatic memories. When her own memories begin dissolving without her consent, she must reconstruct her past before her identity is entirely rewritten by someone with access to her neural files.",
+    "genre": "Science Fiction"
+  },
+  {
+    "title": "The Last Carbon Man",
+    "author": "August Wilde",
+    "synopsis": "In a civilization of post-biological beings, the last unmodified human is studied as an artifact of the past. Told through his diary, the novel explores what it means to age, suffer, and die in a world that has engineered away all three.",
+    "genre": "Science Fiction"
+  },
+  {
+    "title": "Redshift",
+    "author": "Lyra Cassini",
+    "synopsis": "A cargo pilot running supplies between outer colonies stumbles onto evidence of a corporate conspiracy to weaponize dark matter. Pursued across star systems by private military contractors, she must decide how far she is willing to go to expose the truth.",
+    "genre": "Science Fiction"
+  },
+  {
+    "title": "The Silence Protocol",
+    "author": "Orion Black",
+    "synopsis": "Earth joins an interstellar federation under one condition: absolute silence about the planet's violent history. A young diplomat discovers that the federation already knows everything and that the silence was never for them — it was to see if humanity would lie.",
+    "genre": "Science Fiction"
+  },
+  {
+    "title": "Beneath the Binary Sun",
+    "author": "Sol Vega",
+    "synopsis": "A xenobiologist cataloguing life on a binary star planet discovers a species with collective memory spanning ten thousand years. As she learns to communicate with them, she realizes they have been waiting for humans specifically — and not with good intentions.",
+    "genre": "Science Fiction"
+  },
+  {
+    "title": "Orbital Drift",
+    "author": "Cass Helion",
+    "synopsis": "When a solar flare knocks out Earth's orbital infrastructure, a satellite repair technician trapped in orbit must navigate debris fields, failing oxygen supplies, and a cascading communications blackout to bring critical systems back online before civilization destabilizes.",
+    "genre": "Science Fiction"
+  },
+  {
+    "title": "The Waking Simulation",
+    "author": "Ren Cipher",
+    "synopsis": "A programmer hired to patch glitches in a simulated city realizes the city's inhabitants have become fully conscious. His attempts to preserve them pit him against his employer, who sees the simulation only as intellectual property to be wiped and restarted.",
+    "genre": "Science Fiction"
+  },
+  {
+    "title": "Children of the Neutron Star",
+    "author": "Vela Prost",
+    "synopsis": "Settlers on a planet orbiting a neutron star have evolved extraordinary electromagnetic senses over generations. When a survey crew arrives to assess the planet for mining, the settlers must decide whether to reveal the full extent of their abilities to protect their home.",
+    "genre": "Science Fiction"
+  },
+  {
+    "title": "Archive Fever",
+    "author": "Milo Nexus",
+    "synopsis": "After a digital dark age destroys most of human history, an archivist finds fragments of the 21st century and tries to reconstruct what happened. Each recovered file rewrites her understanding of civilization's collapse and her own family's role in it.",
+    "genre": "Science Fiction"
+  },
+  {
+    "title": "The Empathy Engine",
+    "author": "Dara Flux",
+    "synopsis": "A device that lets people share emotions exactly is marketed as a cure for social division. A clinical psychologist studying its long-term users discovers that prolonged use is dissolving the boundaries of individual identity in ways the company knew about and hid.",
+    "genre": "Science Fiction"
+  },
+  {
+    "title": "First Light Station",
+    "author": "Theo Parsec",
+    "synopsis": "The crew of a deep space observation station begins experiencing shared hallucinations of a blue planet none of them have visited. As the visions grow more vivid and detailed, they suspect the station itself may be dreaming — and trying to communicate.",
+    "genre": "Science Fiction"
+  },
+  {
+    "title": "The Ordinary Weight of Things",
+    "author": "Frances Alderton",
+    "synopsis": "A retired schoolteacher returns to her childhood home to settle her estranged mother's estate. Over one humid summer she pieces together her mother's secret life through old letters, neighbors' recollections, and the strange persistence of domestic objects.",
+    "genre": "Literary Fiction"
+  },
+  {
+    "title": "Saltwater",
+    "author": "Marcus Joye",
+    "synopsis": "Three generations of a fishing family on a disappearing island navigate love, debt, and ecological loss. Told in rotating perspectives across sixty years, the novel traces how a community holds together — and how it does not — when the ground beneath it literally sinks.",
+    "genre": "Literary Fiction"
+  },
+  {
+    "title": "The Interpreter's Daughter",
+    "author": "Amara Devi",
+    "synopsis": "The daughter of a UN interpreter raised in a dozen countries tries to write a novel in a language she can call her own. Blending memoir and fiction, her narrative circles around belonging, translation, and what is lost when you speak every language fluently and none of them truly.",
+    "genre": "Literary Fiction"
+  },
+  {
+    "title": "Small Hours",
+    "author": "Paul Breck",
+    "synopsis": "An insomniac nurse working night shifts in a declining Midwestern hospital observes the quiet dramas of illness and recovery. Spare and precise, the novel builds an anatomy of a healthcare system through the intimate moments that happen only at 3 a.m.",
+    "genre": "Literary Fiction"
+  },
+  {
+    "title": "After the Flood Season",
+    "author": "Yara Osei",
+    "synopsis": "Following a catastrophic flood that reshapes a West African coastal city, a photojournalist and a civil engineer fall in and out of love while documenting the rebuilding. The novel examines how disaster reveals and distorts both character and community.",
+    "genre": "Literary Fiction"
+  },
+  {
+    "title": "The Duration",
+    "author": "Simon Lark",
+    "synopsis": "A man spends a year doing nothing after his wife leaves him. Written entirely in the present tense, the novel tracks the texture of empty days — the weight of objects, the grammar of routine, the way time changes shape when no one is watching you live it.",
+    "genre": "Literary Fiction"
+  },
+  {
+    "title": "Borderline",
+    "author": "Nasrin Khalil",
+    "synopsis": "A second-generation immigrant lawyer defends a political asylum case while managing her own complicated dual identity. The courtroom drama is interwoven with childhood memories of crossing borders, and the novel asks where the law ends and the person begins.",
+    "genre": "Literary Fiction"
+  },
+  {
+    "title": "The Museum of Small Losses",
+    "author": "Clara Vesper",
+    "synopsis": "A curator of a tiny provincial museum catalogs not paintings but ordinary objects with extraordinary stories — a broken watch, a child's shoe, a letter never sent. Each object unlocks a life, and together they compose an elegy for things that almost mattered.",
+    "genre": "Literary Fiction"
+  },
+  {
+    "title": "Late Light",
+    "author": "Gabriel Fenn",
+    "synopsis": "An aging filmmaker watches his retrospective with a stranger who claims to be his estranged son. Over the course of one evening and the films on screen, they negotiate memory, abandonment, and the difference between what we make and what we live.",
+    "genre": "Literary Fiction"
+  },
+  {
+    "title": "The Naming of Silences",
+    "author": "Priya Anand",
+    "synopsis": "A linguistics professor catalogues types of silence — aggressive silence, loving silence, the silence after bad news — after her brother stops speaking following a trauma. Language and its absence become the novel's true subject in this meditative, elliptical work.",
+    "genre": "Literary Fiction"
+  },
+  {
+    "title": "What the River Forgot",
+    "author": "Lena Holst",
+    "synopsis": "A Swedish archivist researching a 19th century murder case becomes obsessed with a woman who disappeared from the historical record entirely. The line between research and identification dissolves as she reconstructs a life that history chose not to keep.",
+    "genre": "Literary Fiction"
+  },
+  {
+    "title": "Renovation",
+    "author": "Elliot Marsh",
+    "synopsis": "A newly divorced man buys a crumbling house and spends two years restoring it. Through the physical labor of tearing out walls and laying floors, the novel maps the slower, messier interior work of remaking a self after a long marriage ends.",
+    "genre": "Literary Fiction"
+  },
+  {
+    "title": "The Frequency of Light",
+    "author": "Adaeze Obi",
+    "synopsis": "Twin sisters separated in childhood reunion in their forties at their father's funeral. Moving between Lagos in the 1980s and London today, the novel examines what twins share and what they cannot — including grief, guilt, and the story of a father neither fully knew.",
+    "genre": "Literary Fiction"
+  },
+  {
+    "title": "One More Season",
+    "author": "Tomas Havel",
+    "synopsis": "An aging Czech theater director mounts one final production while his memory fails him. His cast, crew, and the play itself become a scaffold on which to hang the disintegrating fragments of a life in art, love, and political compromise.",
+    "genre": "Literary Fiction"
+  },
+  {
+    "title": "All the Light We Carry",
+    "author": "Cora Wren",
+    "synopsis": "A nurse and a soldier meet briefly during wartime and exchange a single letter. Fifty years later their grandchildren find the letter and begin corresponding. Alternating between past and present, the novel meditates on inherited longing and the love stories we are given rather than choose.",
+    "genre": "Romance"
+  },
+  {
+    "title": "The Architecture of Us",
+    "author": "Dani Mercer",
+    "synopsis": "Two rival architects are forced to collaborate on a landmark building neither wants to compromise on. As their professional battles spill into late nights and unexpected confessions, they must decide whether winning the argument is worth losing each other.",
+    "genre": "Romance"
+  },
+  {
+    "title": "Second Summer",
+    "author": "Isla Grant",
+    "synopsis": "After a decade apart, two college sweethearts are hired as counselors at the same summer camp where they first fell in love. Navigating old hurt, new lives, and the strange intimacy of small cabins and campfires, they discover whether first love can become something wiser.",
+    "genre": "Romance"
+  },
+  {
+    "title": "The Bookseller of Antibes",
+    "author": "Marc Villeneuve",
+    "synopsis": "A widowed French bookseller and a recently divorced American travel writer meet at an estate sale in Provence. Over a summer of shared discoveries — old books, local wine, and family secrets — they find in each other a tenderness neither expected at fifty.",
+    "genre": "Romance"
+  },
+  {
+    "title": "Not Ready",
+    "author": "Priya Sundar",
+    "synopsis": "A commitment-phobic wedding photographer falls for the groom at the first wedding she ever shoots. What follows is a slow-burn reunion spread over three years, four continents, and one very patient man who has decided she is worth the wait.",
+    "genre": "Romance"
+  },
+  {
+    "title": "Harbor",
+    "author": "Eloise Marin",
+    "synopsis": "A marine biologist returning to her hometown after a decade away reconnects with her high school best friend, now the town's harbor master. As they restore an old lighthouse together, they must decide whether what they feel for each other is nostalgia or something they never let themselves name.",
+    "genre": "Romance"
+  },
+  {
+    "title": "The Proposal Clause",
+    "author": "Vivienne Cross",
+    "synopsis": "A corporate lawyer discovers a clause in her grandmother's will requiring her to be engaged within sixty days or lose the family estate. Her neighbor, a quietly charming chef with his own reasons for needing stability, agrees to a fake engagement. Neither plans for it to feel real.",
+    "genre": "Romance"
+  },
+  {
+    "title": "Slow Burn",
+    "author": "Tomás Reyes",
+    "synopsis": "Two professional chefs open competing restaurants in the same neighborhood and spend three years as adversaries — in the press, in the kitchen, and at every neighborhood event. When a critic's review threatens both their livelihoods, their truce becomes something far harder to cook away.",
+    "genre": "Romance"
+  },
+  {
+    "title": "The Last Train to Cornish Cove",
+    "author": "Beatrix Hale",
+    "synopsis": "A woman who has missed every important thing in her life by exactly one minute boards the last train to a small coastal village. The man she sits beside has missed everything in his by choice. Over a four-hour journey, their stories converge.",
+    "genre": "Romance"
+  },
+  {
+    "title": "Somewhere in the Margins",
+    "author": "Leo Park",
+    "synopsis": "A graduate student annotating a donated library collection finds handwritten notes in every book — a conversation between two previous owners who never met in person. Tracking down one of them, he discovers the notes were a love story, and that one of the writers is still alive.",
+    "genre": "Romance"
+  },
+  {
+    "title": "Everything After",
+    "author": "Nadia Ferris",
+    "synopsis": "A cancer survivor and the nurse who cared for her meet again two years after her remission at a mutual friend's wedding. Tender, funny, and honest about the fear of loving someone after loss, the novel follows their tentative second beginning.",
+    "genre": "Romance"
+  },
+  {
+    "title": "The Language of Flowers in February",
+    "author": "Ren Nakashima",
+    "synopsis": "A florist with synesthesia experiences emotions as colors and has spent years avoiding the overwhelming brightness of love. When a quiet translator begins ordering a single flower each week without explanation, she finds herself doing something she swore she never would — waiting for him.",
+    "genre": "Romance"
+  },
+  {
+    "title": "Golden Hour",
+    "author": "Sadie Lowe",
+    "synopsis": "A documentary filmmaker and the subject of her film — a retired jazz musician — spend six months together for her project. As the camera rolls and the music plays, the careful distance she keeps dissolves and she must decide what she wants the film to be about.",
+    "genre": "Romance"
+  },
+  {
+    "title": "The Wrong Apartment",
+    "author": "Hana Kim",
+    "synopsis": "A mix-up at a Seoul housing agency puts two strangers in the same apartment for a month while the error is sorted out. What begins as negotiated cohabitation and passive-aggressive sticky notes becomes the most honest relationship either of them has ever had.",
+    "genre": "Romance"
+  },
+  {
+    "title": "Until the Stars Come Out",
+    "author": "Finn Calloway",
+    "synopsis": "Two astronomers stationed at a remote observatory in Chile communicate only through shared logbooks for eighteen months before they finally meet. The novel is composed entirely of those logbook entries — observations of stars slowly giving way to observations of each other.",
+    "genre": "Romance"
+  },
+  {
+    "title": "The Pale Signature",
+    "author": "Edmund Rowe",
+    "synopsis": "A forensic document examiner is called in when a series of art forgeries begin appearing — each one containing a hidden signature legible only under ultraviolet light. As she traces the forgeries' origin, she realizes the artist has been leaving her a message across every piece.",
+    "genre": "Mystery/Thriller"
+  },
+  {
+    "title": "Black Ice",
+    "author": "Ingrid Sola",
+    "synopsis": "A detective investigating a hit-and-run on a frozen Norwegian road discovers that all four witnesses gave identical statements — word for word. The deeper she digs into the small coastal town's close-knit community, the less anything adds up.",
+    "genre": "Mystery/Thriller"
+  },
+  {
+    "title": "The Quiet House on Elm Court",
+    "author": "Patricia Voss",
+    "synopsis": "A true crime podcaster moves into a suburban home where a family vanished thirty years ago with no explanation or evidence. As she researches for her show, small things in the house begin to change, and she starts to wonder whether the family really left at all.",
+    "genre": "Mystery/Thriller"
+  },
+  {
+    "title": "Double Blind",
+    "author": "Serena Cole",
+    "synopsis": "A pharmaceutical researcher dies during a drug trial, and her death is ruled an overdose. Her twin sister, convinced it was murder, infiltrates the trial under her sister's identity to find the truth — and discovers the drug's real purpose was nothing approved by any ethics board.",
+    "genre": "Mystery/Thriller"
+  },
+  {
+    "title": "The Bellman Case",
+    "author": "Arthur Finch",
+    "synopsis": "A retired MI6 analyst is pulled back into service when a former asset is found dead in a London park — the third such death in six months. Each victim was part of a Cold War operation he ran, and each death looks exactly like natural causes.",
+    "genre": "Mystery/Thriller"
+  },
+  {
+    "title": "Red Notation",
+    "author": "Clarice Drum",
+    "synopsis": "A music critic receives a vinyl record with a note saying it will explain everything about a famous composer's suicide twenty years ago. Each track she plays reveals another layer of deception, obsession, and a secret that the classical music world buried very deliberately.",
+    "genre": "Mystery/Thriller"
+  },
+  {
+    "title": "The Witness Garden",
+    "author": "Noel Harker",
+    "synopsis": "A landscape architect hired to restore a manor garden discovers bones beneath the oldest rose bed. The manor's elderly owner insists they predate her, but a crime scene botanist identifies pollen that tells a different story about the timing of the burial.",
+    "genre": "Mystery/Thriller"
+  },
+  {
+    "title": "Thin Ice",
+    "author": "Kira Blaine",
+    "synopsis": "An Olympic figure skating coach is found dead the morning of the championship event. The detective assigned to the case must navigate the brutal politics of elite sport, the obsessive loyalty of skaters, and a web of sabotage that goes back years.",
+    "genre": "Mystery/Thriller"
+  },
+  {
+    "title": "Night Protocol",
+    "author": "Victor Crane",
+    "synopsis": "A cybersecurity analyst hired to stress-test a hospital's systems discovers a backdoor that was used the night a high-profile patient died. What begins as a professional audit becomes a race against an unknown actor who knows she found the door and intends to close it — and her.",
+    "genre": "Mystery/Thriller"
+  },
+  {
+    "title": "The Seventh Passenger",
+    "author": "Dolores Marsh",
+    "synopsis": "A transatlantic cruise ship arrives in port with six of its seven first-class passengers dead. The sole survivor is a mute child who cannot explain what happened. The shipping company's investigator has four days before the story breaks publicly to understand what the child saw.",
+    "genre": "Mystery/Thriller"
+  },
+  {
+    "title": "Loose Ends",
+    "author": "Damien Cross",
+    "synopsis": "A cold case detective reopens an unsolved kidnapping from 1997 after receiving a letter that contains a detail only the kidnapper could know. The investigation leads her back to the small town where she grew up — and to people who expected the case to stay cold.",
+    "genre": "Mystery/Thriller"
+  },
+  {
+    "title": "The Copyist",
+    "author": "Helena Vane",
+    "synopsis": "A rare books librarian is hired to authenticate a newly discovered medieval manuscript. When she realizes the manuscript has been subtly altered to point toward the location of something buried centuries ago, she becomes the latest in a long chain of people who found the clue — none of whom are still alive.",
+    "genre": "Mystery/Thriller"
+  },
+  {
+    "title": "Offshore",
+    "author": "Marcus Bell",
+    "synopsis": "A financial journalist investigating an offshore tax network disappears the day before publication. His editor, certain it was not voluntary, reconstructs his research from fragments he left behind and discovers the network is fronted by people who run the institutions meant to investigate them.",
+    "genre": "Mystery/Thriller"
+  },
+  {
+    "title": "The Taxidermist's Assistant",
+    "author": "Vera Quill",
+    "synopsis": "A small-town taxidermist is found dead surrounded by meticulously posed animals, each one staged to recreate a scene from a famous unsolved murder. A retired detective called in to consult recognizes each scene immediately — because she worked all of those cases.",
+    "genre": "Mystery/Thriller"
+  },
+  {
+    "title": "Still Water",
+    "author": "James Croft",
+    "synopsis": "A limnologist studying a remote mountain lake discovers that the water has begun reflecting events that have not happened yet. When one of the predicted events is a murder, she must determine whether the lake is a warning — or evidence that it has already occurred.",
+    "genre": "Mystery/Thriller"
+  }
 ]
