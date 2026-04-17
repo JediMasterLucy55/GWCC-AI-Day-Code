@@ -30,7 +30,7 @@ X_test_tfidf = vectorizer.transform(X_test)
 
 # creates the brain
 # max_iter is so it is able to learn more accurately
-model = LogisticRegression(max_iter = 1000)  
+model = LogisticRegression(max_iter = 10000)  
 # trains the AI
 model.fit(X_train_tfidf, y_train)  
 
